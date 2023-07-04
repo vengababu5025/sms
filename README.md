@@ -8,3 +8,6 @@ steps to clone the repository and host the site:
 5.the deafault:
 username:vengababu
 password:0715
+
+![image](https://github.com/vengababu5025/sms/assets/113979125/84515aaf-57f0-4d6e-81bc-e5f144f39de0)
+
